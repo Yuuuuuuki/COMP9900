@@ -1,0 +1,32 @@
+{
+    "pyrebaseconfig":[
+        {
+            "apiKey": "AIzaSyAK-YohvLY8J6Z35xhuGtdrOs_sv0fAzDA",
+            "authDomain": "excellenteateries.firebaseapp.com",
+            "databaseURL": "https://excellenteateries.firebaseio.com",
+            "projectId": "excellenteateries",
+            "storageBucket": "excellenteateries.appspot.com",
+            "messagingSenderId": "1013563846160",
+            "appId": "1:1013563846160:web:d3317aa4d5f0fd43bce495",
+            "measurementId": "G-GNRRLKHPWQ"
+        }
+    ],
+    "fireadminconfig":[    
+        {
+            "apiKey": "AIzaSyAK-YohvLY8J6Z35xhuGtdrOs_sv0fAzDA",
+            "authDomain": "excellenteateries.firebaseapp.com",
+            "databaseURL": "https://excellenteateries.firebaseio.com",
+            "projectId": "excellenteateries",
+            "storageBucket": "excellenteateries.appspot.com",
+            "messagingSenderId": "1013563846160",
+            "appId": "1:1013563846160:web:d3317aa4d5f0fd43bce495",
+            "measurementId": "G-GNRRLKHPWQ"
+        },
+        {
+            "apikey": "service_account.json"
+        }
+    ]
+}
+
+
+
